@@ -1,6 +1,6 @@
-## [See demo](http://covid-app-faizaazizkhan.surge.sh/)
+## [Live Demo] https://covid19-app-project6.netlify.app/
 
-## http://covid-app-faizaazizkhan.surge.sh/
+## https://github.com/Maryam482/COVID-TRACKER-APP.git
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
